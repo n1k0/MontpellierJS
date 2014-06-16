@@ -16,4 +16,4 @@ Vous avez des idées, des envies particulières, n'hésitez pas à nous faire vo
 
 ### Archives
 
-* [Compte renndu des évènements précédents](archives/ARCHIVE.md)
+* [Compte rendu des évènements précédents](archives/ARCHIVE.md)
